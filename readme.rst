@@ -2,4 +2,4 @@
 * My dream is to make a real OS (Operating System) and a programming language.
 * I have learned [lua](https://lua.org), [python](https://python.org), [java](https://java.com/en) and c.
 
-.. image:: logo/logo.png
+.. image:: logo.png
